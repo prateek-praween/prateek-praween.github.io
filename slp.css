@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1566308967753-65f56e9ae2e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-size: 200%;
+	font-family: 'Cinzel', serif;
+	text-align: center;
+	color: #FFAAAA;
+}
+.jumbotron{
+background-color: rgba(187, 187, 187,0.5);
+font-size: 150%;
+position: relative;
+vertical-align: bottom;
+}
+.btn-primary[role="button"]:hover{
+color: darkblue;
+transition: all 0.5s;
+transform: scale(1.1);
+}
+h5{
+ font-style: bold;	
+}
+#mc-embedded-subscribe:hover{
+color: darkblue;
+transition: all 0.5s;
+transform: scale(1.1);
+}
